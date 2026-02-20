@@ -110,6 +110,7 @@ max_marks = df["Marks"].max()
 print()
 
 
+
 display(mean_marks)
 display(min_marks)
 display(max_marks)
